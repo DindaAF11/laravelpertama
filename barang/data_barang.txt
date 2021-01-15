@@ -1,0 +1,28 @@
+1. Paket Dimsum 1
+- Harga : Rp. 35.000
+- Stok : 5
+- Keterangan : Terbuat dari ikan gabus Isi 10
+2. Paket Dimsum 2
+- Harga : Rp. 30.000
+- Stok : 10
+- Keterangan : Terbuat dari ayam Isi 8
+3. Paket Dimsum 3
+- Harga : Rp. 50.000
+- Stok : 8
+- Keterangan : Terbuat dari ikan tenggiri Isi 20
+4. Paket Dimsum 4
+- Harga : Rp. 20.000
+- Stok : 8
+- Keterangan : Terbuat dari ikan teri Isi 4
+5. Paket Dimsum 5
+- Harga : Rp. 30.000
+- Stok : 8
+- Keterangan : Terbuat dari udang Isi 6
+6. Paket Dimsum 6
+- Harga : Rp. 150.000
+- Stok : 4
+- Keterangan : Terbuat dari ikan tenggiri Isi 30
+7. Paket Dimsum 7
+- Harga : Rp. 50.000
+- Stok : 5
+- Keterangan : Terbuat dari ikan  tongkol Isi 10
